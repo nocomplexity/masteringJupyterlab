@@ -2,6 +2,8 @@
 
 You can work on a new python module and test it in a notebook environment. But when the code of your module change, you must reload the module in the notebook environment again. 
 
+Simple solution: Use the autoreload to make sure the latest version of the module is used.
+
 
 Reload modules in a notebook by:
 
