@@ -1,0 +1,43 @@
+- file: intro
+
+- part: Tips
+  chapters:  
+  - file: tip-installation
+  - file: tip-editmarkdown
+  - file: tip-terminal  
+  - file: tip-autoloadmodule
+  - file: tip-updatingJupyterlab
+  - file: tip-versioncontrol
+  - file: tip-sharingnotebooks
+  - file: tip-passingshellvariables
+  - file: tip-asyncio
+  - file: notebooks/notebooktips    
+  - file: keyboardshortcuts
+    title: "Keyboard shortcuts"  
+  - file: notebooks/TypesettingEquations
+  - file: ipython
+    sections:    
+    - file: ipython-refcard
+    - file: advancedtips
+    - file: ipython-magiccommands    
+  - file: extensions.md  
+  
+  - file: faq
+
+- part: 'Appendix:JupyterLab Docs' 
+  chapters:
+  - file: references
+  - file: notebooks/jupyterlab-cli
+
+
+- part: About
+  chapters:
+  - file: bio
+  - file: help
+  - file: license
+
+
+
+  
+  
+  
