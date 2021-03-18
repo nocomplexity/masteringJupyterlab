@@ -41,7 +41,7 @@ def install(package_name):
 
 ## Can you use FreeBSD
 
-[FreeBSD](freebsd.org) is a great innovative free and open (FOSS) unix operating system. It is a platform that is great for internet hosting and performing number crunching compute tasks.
+[FreeBSD](https://www.freebsd.org/) is a great innovative free and open (FOSS) unix operating system. It is a platform that is great for internet hosting and performing number crunching compute tasks.
 
 So it makes sense to install Jupyter Server on FreeBSD. In this way you can use JupyterLab hosted from your own BSD box.
 

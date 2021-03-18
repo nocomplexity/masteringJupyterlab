@@ -86,10 +86,11 @@ You can place the ? character before or after (no space allowed) the object you 
 Example:
 
 
-
 ```python
 ?print
+
 ```
+
 
 ```python
     Docstring:
@@ -115,7 +116,9 @@ Example to get the source code of the pprint command:
 
 
 ```python
+
 ??pprint
+
 ```
 
 ```python
