@@ -4,11 +4,7 @@
 
 This repository is the home of a (growing) collection of tips for using JupyterLab.
 
-The continues evolution of IPython towards JupyterLab notebooks is a real example of real open innovation.
-
-But due to the endless features and possibilities to fully work (create, write, play, debug) browser based some tips to simplify usage are helpful.
-
-This document is created to simplify the use of JupyterLab. 
+This document is created to simplify the use of JupyterLab. It gives tips that can save you a lot of time. Or avoid creating complex solutions.
 
 ## Contributing
 
