@@ -1,4 +1,4 @@
-# References to use
+# References
 
 JupyterLab is relatively new amazing software. So you will not find many good books that cover simple usage, creating extensions or user manuals. Also JupyterLab is constantly improving and adding new features. So a printed book would be obsolete when it is printed. 
 

@@ -5,6 +5,27 @@ Installing an extension with JupyterLab is since version 3 possible using the we
 
 This means that nodejs or CLI installation activities to use an extension is no longer needed.
 
+When you install an extension for the first time an error can occur like:
+
+![installerror](images/extensioninstallation.png)
+
+
+Steps to fix this:
+``` 
+conda install -c conda-forge nodejs 
+```
+And after this command do:
+
+```
+jupyter lab build
+```
+
+For background information see the core manual [section](https://jupyterlab.readthedocs.io/en/latest/user/extensions.html?highlight=extensions#installing-extensions ) 
+
+
+
+
+
 
 ## Using code-snippets in your notebook
 
