@@ -11,5 +11,5 @@ conda update -c conda-forge jupyterlab
 Or use:
 
 ```
-pip install jupyterlab
+pip install --upgrade jupyterlab
 ```

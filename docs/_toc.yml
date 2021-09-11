@@ -1,43 +1,34 @@
-- file: intro
-
-- part: Tips
-  chapters:  
+format: jb-book
+root: intro
+parts:
+- caption: Tips
+  chapters:
   - file: tip-installation
   - file: tip-editmarkdown
-  - file: tip-terminal  
+  - file: tip-terminal
   - file: tip-autoloadmodule
   - file: tip-updatingJupyterlab
   - file: tip-versioncontrol
   - file: tip-sharingnotebooks
   - file: tip-passingshellvariables
   - file: tip-asyncio
-  - file: notebooks/notebooktips    
+  - file: notebooks/notebooktips
   - file: keyboardshortcuts
-    title: "Keyboard shortcuts"  
+    title: Keyboard shortcuts
   - file: notebooks/TypesettingEquations
   - file: ipython
-    sections:    
+    sections:
     - file: ipython-refcard
     - file: advancedtips
-    - file: ipython-magiccommands    
-  - file: extensions.md  
-  
+    - file: ipython-magiccommands
+  - file: extensions.md
   - file: faq
-
-- part: 'Appendix:JupyterLab Docs' 
+- caption: Appendix:JupyterLab Docs
   chapters:
   - file: references
   - file: notebooks/jupyterlab-cli
-
-
-- part: About
+- caption: About
   chapters:
   - file: bio
   - file: help
   - file: license
-
-
-
-  
-  
-  
