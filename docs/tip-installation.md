@@ -33,7 +33,7 @@ conda install -c conda-forge jupyterlab
 
 To start a jupyter lab server now you can do:
 ```
-jupyter lab &
+jupyter lab 
 ```
 
 More detailed information for installing JupyterLab can be found [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
