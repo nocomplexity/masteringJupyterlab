@@ -25,8 +25,8 @@ parts:
   - file: faq
 - caption: Appendix:JupyterLab Docs
   chapters:
-  - file: references
   - file: notebooks/jupyterlab-cli
+  - file: references  
 - caption: About
   chapters:
   - file: bio
