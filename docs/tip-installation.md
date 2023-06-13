@@ -28,7 +28,7 @@ source activate lab3
 To get jupyter lab on the latest python version: Use pip (not conda-forge!)
 So do:
 ```
-pip install jupyterlab
+pip install -U jupyterlab
 ```
 
 The conda version is not the latest version. **But** If you prefer the conda version do:
