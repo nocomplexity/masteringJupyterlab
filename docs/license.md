@@ -1,7 +1,7 @@
 # License 
 
 This publication to save you time with working with JupyterLab is:
-(c) 2021 BM-Support.org & Maikel Mardjan
+(c) 2021 -2023 BM-Support.org & Maikel Mardjan
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners.
 
