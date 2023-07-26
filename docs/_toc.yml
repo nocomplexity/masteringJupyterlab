@@ -26,7 +26,8 @@ parts:
 - caption: Appendix:JupyterLab Docs
   chapters:
   - file: notebooks/jupyterlab-cli
-  - file: references  
+  - file: references
+  - file: spinoffs
 - caption: About
   chapters:
   - file: bio

@@ -1,4 +1,4 @@
-# References
+# Jupyter Documentation References
 
 JupyterLab is relatively new amazing software. So you will not find many good books that cover simple usage, creating extensions or user manuals. Also JupyterLab is constantly improving and adding new features. So a printed book would be obsolete when it is printed. 
 
@@ -35,13 +35,5 @@ Check:
 https://ipython.readthedocs.io/en/stable/  
 
 For the up-to-date IPython documentation.
-
-
-## Binder 
-
-Binder allows you to create custom computing environments that can be shared and used by many remote users. Use it to share an executable version of your notebook.
-
-Full docs on: https://mybinder.readthedocs.io/en/latest/index.html# 
-
 
 
