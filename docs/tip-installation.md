@@ -1,5 +1,16 @@
 # Installation
 
+The good news is you want to use or try JuypterLab: 
+```{note}
+No installation is needed! 
+```
+
+You can test Jupyterlab and build even nice notebooks using JupyerLite: [https://jupyterlite.github.io/demo](https://jupyterlite.github.io/demo)
+
+Or see other options to try it out directly on the [project Jupyter - Try ](https://jupyter.org/try) page.
+
+Of course, if you do not care about privacy and your freedom Google and numerous other companies offer also [full online notebook environments](https://colab.research.google.com/).
+
 You can use JupyterLab as hosted environment using a hosted [JupyterHub](https://jupyter.org/hub) environment.
 
 This works well for training classes, companies, research groups that need to work on an environment with lots of CPUs, memory and storage. And where maintenance tasks are managed by an skilled system administrator. 
