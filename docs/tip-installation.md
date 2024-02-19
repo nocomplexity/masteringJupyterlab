@@ -5,11 +5,11 @@ The good news is you want to use or try JuypterLab:
 No installation is needed! 
 ```
 
-You can test Jupyterlab and build even nice notebooks using JupyerLite: [https://jupyterlite.github.io/demo](https://jupyterlite.github.io/demo)
+You can test Jupyterlab and build even directly your own notebooks using JupyerLite: [https://jupyterlite.github.io/demo](https://jupyterlite.github.io/demo)
 
 Or see other options to try it out directly on the [project Jupyter - Try ](https://jupyter.org/try) page.
 
-Of course, if you do not care about privacy and your freedom Google and numerous other companies offer also [full online notebook environments](https://colab.research.google.com/).
+Of course, if you do not care about privacy and your freedom Google and numerous other companies offer also [full online notebook environments](https://colab.research.google.com/). Also [Microsoft Visual Studio  VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) offers a great builtin environment for notebooks!
 
 You can use JupyterLab as hosted environment using a hosted [JupyterHub](https://jupyter.org/hub) environment.
 
