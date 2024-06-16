@@ -9,7 +9,7 @@ The notebook format is plain json. This works well using git.
 Notebooks makes using of caching (It's html) so focus for version control on the real content in input cells.
 Generated output cells stored in version control do not work well with git.
 
-Git doesn’t the output of notebooks good. E.g. a git merge for nested JSON documents is error prone, and a git diff on notebooks with output cells is the best way to find differences.
+Git doesn’t show the output of versions between notebooks always correct. E.g. a git merge for nested JSON documents is error prone, and a git diff on notebooks with output cells is the best way to find differences.
 
 ```
 
