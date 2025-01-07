@@ -1,5 +1,46 @@
 # IPython Quick Reference Card
 
+he IPython shell allows you to enter Python commands one by one and executes them promptly.
+The IPython shell is a luxury version of the simpler Python shell. It is also called *interactive mode* or *interactive Python command line*.
+
+You can use any Python command from the *IPython Shell*:
+
+```python
+    In [1]: 1 + 1
+    Out[1]: 2
+    In [2]: 4 * 16
+    Out[2]: 64
+    In [3]:
+```
+
+Results of each command are automatically printed to the screen.
+
+## How to leave the IPython shell?
+
+* You can leave the command line by Ctrl-z (Windows) or Ctrl-d (Linux).
+* If a program seems to be stuck, you can interrupt the shell with Ctrl-c.
+
+## Magic Methods
+
+The IPython shell has a number of special commands or **Magic Methods**. Some simple commands are e.g.:
+
+| command | description |
+|---------|-------------|
+| `%run` | execute a program |
+| `%paste` | paste and execute code from the clipboard |
+| `%hist` | show recently entered commands |
+| `ls` | show files in the current directory |
+| `pwd` | print the current working directory |
+| `cd <dir>` | change the working directory to `<dir>` |
+| `!<command>` | execute `<command>` on the bash |
+
+## Tab completion
+
+A useful feature when using notebooks is 'tab completion'. Trying using a multi-character variable, then type the first few characters followed by the `tab` key. The full variable name should complete automatically.
+
+If you try to assign something to a reserved keyword, you will get an error.
+
+
 This page is created using:
 * `%quickref` 
 * Save the output of the notebook directly as markdown file. (IPython generated shell output is not included in output cells in JupyterBook)

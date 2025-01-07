@@ -6,7 +6,7 @@
 # Book settings
 title                       : Mastering JupyterLab # The title of the book. Will be placed in the left navbar.
 author                      : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a>' # The author of the book
-copyright                   : '2021-2024 Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
+copyright                   : '2021-2025 Maikel Mardjan -Business Management Support Foundation (bm-support.org'  # Copyright year to be placed in the footer
 logo                        : "images/nocxbanner.png"  # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
@@ -73,8 +73,7 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          :   
-  - sphinx_click.ext
+  extra_extensions          :     
   - sphinx.ext.autodoc  
   - sphinx.ext.viewcode  
   - sphinx.ext.napoleon
@@ -89,7 +88,7 @@ sphinx:
       use_repository_button: True
       use_edit_page_button: True
       use_issues_button: True
-      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2021-2024, BM-Support.org - Maikel Mardjan.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'           
+      extra_footer: '<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> © Copyright 2021-2025, BM-Support.org - Maikel Mardjan.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'           
       logo:
             text: "Mastering JupyterLab"   
     
