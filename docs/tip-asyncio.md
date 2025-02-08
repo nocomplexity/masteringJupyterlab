@@ -30,3 +30,21 @@ See: https://blog.jupyter.org/ipython-7-0-async-repl-a35ce050f7f7
 Use result()  Return the result of the Task. function of asyncio, see https://docs.python.org/3/library/asyncio-task.html#asyncio.run
 
 ```
+
+## Using JupyterLab in combination with Python programs that use asyncio
+
+Running or importing Python libraries that use `asyncio` or `zmq` sockets is unlikely to work.
+
+But you can use Python programs that use `asyncio`.
+
+Just do run your Python program which uses `asyncio` as script:
+```
+%%sx
+./[your python program].py [argument(s)]
+```
+
+
+:::{tip} 
+Capture the output in the notebook. In this way the Python program which has process running in parallel under `asyncio` do work. The Python program is simply executed by the shell. This prevents interference with core JupyterLab processes. 
+
+:::

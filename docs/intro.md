@@ -12,6 +12,13 @@ The JupyterLab Notebook is an interactive 'browser based' computing environment 
 -   Plots
 - Create living documents. So creating reproducible scientific documents including:    Equations,     Images, data, graphs ,  video and more has become possible without excuse. If you have a browser, just do it!
 
+:::{important} 
+Knowing and using the Jupyter ecosystem is:
+* Key for [Machine Learning and AI](https://nocomplexity.com/simplify-machine-learning/). Serious ML/AI professionals should be familiar and use notebooks.
+* Key for open science ([FAIR](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair.html))
+
+:::
+
 JupyterLab is great for exploratory programming and fast experimentation on code and data. When the end goal evolves as new insights come up, the same JupyterLab environment can be used for presenting work which interleaves text and code. So real open research since code, data and result can be inspected and reused. JupyterLab is a great tool to use for [ROI](https://www.bm-support.org/) (Radically Open Innovation)
 
 Jupyter notebooks are already heavily used in data science and related disciplines.  

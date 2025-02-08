@@ -23,13 +23,15 @@ parts:
     - file: ipython-magiccommands
   - file: extensions.md
   - file: faq
-- caption: Appendix:JupyterLab Docs
+
+- caption: JupyterLab Docs
   chapters:
-  - file: notebooks/jupyterlab-cli
-  - file: references
+  - file: notebooks/jupyterlab-cli  
+  - file: generatedfiles/overview
   - file: spinoffs
+
 - caption: About
-  chapters:
-  - file: bio
+  chapters:  
   - file: help
+  - file: about  
   - file: license

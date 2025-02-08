@@ -2,8 +2,14 @@
 
 The good news is you want to use or try JuypterLab: 
 ```{note}
-No installation is needed! 
+No installation is needed! You can use many hosted instances.
 ```
+
+:::{warning} 
+If you care about privacy and data leakage you should never ever use a hosted JupyterLab version.
+Large and small commercial JupyerLab hosting providers collect all kinds of telemetric data and other information of you that you do not want. 
+:::
+
 
 You can test Jupyterlab and build even directly your own notebooks using JupyerLite: [https://jupyterlite.github.io/demo](https://jupyterlite.github.io/demo)
 
